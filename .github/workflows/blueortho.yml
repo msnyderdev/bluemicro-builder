@@ -20,7 +20,7 @@ jobs:
         # Keymap of the keyboard to setup.  Multiple keymaps can be setup following this example: ['default','jpconstantineau']
         keymap: ['default']
         # keyboard configuration. Multiple configs can be setup following this example: ['left','right']
-        keyboard_config: ['single']
+        keyboard_config: ['master']
         # hardware configuration. must have both components of the path in the BlueMicro_BLE keyboard examples path
         hardware_config: ['bluemicrov2_1']
         # Available options
